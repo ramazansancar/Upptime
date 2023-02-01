@@ -1,7 +1,7 @@
 url: https://www.ramazansancar.com.tr
-status: degraded
+status: down
 code: 503
-responseTime: 5087
-lastUpdated: 2023-02-01T11:53:39.522Z
+responseTime: 34
+lastUpdated: 2023-02-01T12:18:00.873Z
 startTime: Fri Nov 18 2022 21:51:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
