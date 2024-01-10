@@ -5,18 +5,19 @@
     "icon": "https://blog.ramazansancar.com.tr/wp-content/uploads/2019/08/840fc919c6e970bf8ba3cb6fbd822d0c1041cc8b.png",
     "slug": "web-site",
     "status": "down",
-    "uptime": "17.92%",
+    "uptime": "17.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "11.22%",
     "time": 255,
-    "timeDay": 37,
-    "timeWeek": 171,
-    "timeMonth": 334,
-    "timeYear": 245,
+    "timeDay": 370,
+    "timeWeek": 193,
+    "timeMonth": 342,
+    "timeYear": 246,
     "dailyMinutesDown": {
-      "2024-01-09": 45,
+      "2024-01-10": 45,
+      "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
@@ -339,8 +340,7 @@
       "2023-01-14": 1440,
       "2023-01-13": 1440,
       "2023-01-12": 1440,
-      "2023-01-11": 1440,
-      "2023-01-10": 1440
+      "2023-01-11": 1440
     }
   }
 ]
